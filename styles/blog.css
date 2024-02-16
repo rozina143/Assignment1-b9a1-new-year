@@ -1,0 +1,49 @@
+#bannersection{
+    position: relative;
+}
+.image img{
+    width: 1320px;
+    height: 600px;
+   
+}
+.image{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 140px;
+   
+}
+
+#text1{
+font-size: 32px;
+font-weight: 400px;
+top: 150px;
+left: 720px;
+position: absolute;   
+color: rgb(255, 255, 255);
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+
+
+}
+#text2{
+    font-size: 72px;
+    font-weight: 900px;
+    top: 180px;
+left: 600px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+.span{
+    font-size: 72px;
+    font-weight: 900px;
+    display: block;
+    text-align: center;
+}
