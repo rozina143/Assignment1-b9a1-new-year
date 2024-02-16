@@ -9,7 +9,8 @@
 .image img{
     width: 1320px;
     height: 600px;
-   
+    border-radius: 20px 20px 0px 0px;
+  
 }
 .image{
     display: flex;
@@ -84,3 +85,38 @@ word-spacing: 2px;
 
 }
 /* section part 1 finished */
+
+
+#part2{
+    width: 1320px;
+    height: 600px;
+    margin-left: 140px;
+    background-image: linear-gradient(to left, rgba(255, 0, 0, 0), rgb(0, 0, 0)),url('Vectorrr.png');
+    border-radius: 15px 15px;
+}
+.wish{
+   font-weight: 900px;
+font-size: 64px;
+color:rgb(255, 255, 255) ;
+}
+.paragraph{
+    font-weight: 400px;
+font-size: 18px;
+color: rgba(255, 255, 255, 0.603);
+}
+.little{
+    font-weight: 400px;
+    font-size: 20px;
+    color:rgb(255, 255, 255) ;
+}
+.welcomepart{
+    display: flex;
+}
+.textpart{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.twenty{
+    margin-top: 100px;
+    margin-left: 150px;
+}
