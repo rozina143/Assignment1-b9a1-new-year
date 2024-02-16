@@ -90,6 +90,7 @@ word-spacing: 2px;
 #part2{
     width: 1320px;
     height: 600px;
+    margin-top: 80px;
     margin-left: 140px;
     background-image: linear-gradient(to left, rgba(255, 0, 0, 0), rgb(0, 0, 0)),url('Vectorrr.png');
     border-radius: 15px 15px;
@@ -119,4 +120,51 @@ color: rgba(255, 255, 255, 0.603);
 .twenty{
     margin-top: 100px;
     margin-left: 150px;
+}
+#timing{
+    width: 1320px;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 140px;
+    border-radius: 15px 15px;
+   background: linear-gradient(to top, rgba(241, 226, 226, 0), rgba(241, 216, 216, 0.918));
+   position: relative;
+
+}
+.part3{
+    position: absolute;
+    margin-left: 450px;
+  
+}
+.letter1{
+    margin-top: 100px;
+margin-left:77px;
+    font-weight: bold;
+font-size: 20px;
+color:black
+}
+.letter2{
+    margin-top: 10px;
+    margin-left:35px;
+    font-weight: bold;
+font-size: 20px;
+color:black
+}
+.letter3{
+    margin-left:15px;
+    font-weight: bold;
+font-size: 20px;
+color:black
+}
+.join{
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-right: 100px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px 20px ;
+font-weight: 700px;
+font-size: 20px;
+ color: rgb(255, 255, 255);
+   
 }
