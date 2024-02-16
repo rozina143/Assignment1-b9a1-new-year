@@ -1,4 +1,9 @@
-#bannersection{
+/*Header Section  */
+*body{
+    width: 100vh;
+    height: 100vh;
+}
+#bannersection{ 
     position: relative;
 }
 .image img{
@@ -47,3 +52,35 @@ left: 600px;
     display: block;
     text-align: center;
 }
+
+/* THe header section finished */
+
+/* section part 1 */
+#part1{
+   margin-left: 500px;
+}
+
+.offer{
+    margin-left: 100px;
+    font-size: 88px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    color: red;
+}
+.deals{
+    margin-top: 25px;
+    margin-left: 160px;
+font-weight: bold;
+font-size: 15px;
+color: rgba(255, 0, 0, 0.699);
+letter-spacing: normal;
+word-spacing: 2px;
+}
+.categories{
+    margin-top: 0px;
+    margin-left:160px ;
+    font-size: 30px;
+    font-weight: 700px;
+
+}
+/* section part 1 finished */
